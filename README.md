@@ -191,7 +191,8 @@ Not Deployed
 
 ### Project Structure
 
-<img width="360" height="633" alt="Screenshot 2026-05-17 at 5 33 52 PM" src="https://github.com/user-attachments/assets/562aaed6-f10b-416a-8522-a86b5dbcc6e5" />
+<img width="327" height="333" alt="Screenshot 2026-05-17 at 6 43 51 PM" src="https://github.com/user-attachments/assets/c0581e8c-23e5-4fba-890d-e334f4a876bd" />
+
 
 
 ---
